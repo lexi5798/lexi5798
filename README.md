@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lexi5798
+- 👋 Hi, I’m @lexi5798 but you can call me Lex
 - 👀 I’m interested in cybersecurity and cybercrime
 - 🌱 I’m currently learning about containers and computer networks
 - 💞️ I’m looking to advance my technical skills and interact in security community 
