@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lexi5798 but you can call me Lex
-- 👀 I’m interested in trust and safety and cybercrime
-- 🌱 I’m currently learning about SQL
-- 💞️ I’m looking to advance my technical skills
+# 👋 Hi! I'm Alexis, but you can call me Lexi.
+I'm a data abstractor with the Margaret Chase Smith Policy Center at the University of Maine, where I review violent death data. I'm currently working on improving my data analysis and SQL skills. My goal is to work within trust and safety as an analyst to protect minors on social and gaming platforms. 
 
+## 🚧 Current Project: Data Warehouse & Analytics 
+A comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
 <!---
 lexi5798/lexi5798 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
